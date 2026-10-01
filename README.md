@@ -39,58 +39,58 @@ Menyusun struktur tabel yang lebih kompleks dan rapi dengan membaginya ke dalam 
 <img width="137" height="142" alt="Cuplikan layar 2026-09-28 185654" src="https://github.com/user-attachments/assets/bfaf74a6-8504-440a-a26f-9640fde1a0fd" />
 
 
-
 ### 3. Membuat Form Registrasi Mahasiswa
 
 Membuat form interaktif menggunakan elemen `<form>` beserta elemen input standar seperti teks, email, password, dan tanggal lahir (`type="date"`), dilengkapi tombol submit dan reset.
 
-<img width="1920" height="1080" alt="code 3" src="https://github.com/user-attachments/assets/06add897-b00b-4835-b947-925c2bcf1eb8" />
-<img width="1920" height="1080" alt="hasil 3" src="https://github.com/user-attachments/assets/b62e4e92-f70c-4db1-974c-d36575d74fc8" />
+<img width="556" height="257" alt="Cuplikan layar 2026-09-28 191100" src="https://github.com/user-attachments/assets/ae8309c0-6c8f-4431-9e87-4ec0546c7ac7" />
+<img width="392" height="312" alt="Cuplikan layar 2026-09-28 191116" src="https://github.com/user-attachments/assets/05116c48-c35a-4a0e-aece-df875580643f" />
 
 
 ### 4. Radio Button dan Checkbox
 
 Menambahkan elemen pilihan lanjutan berupa *radio button* (`type="radio"`) untuk pilihan tunggal (seperti jenis kelamin) dan *checkbox* (`type="checkbox"`) untuk pilihan ganda (seperti keahlian).
 
-<img width="1920" height="1080" alt="code 4" src="https://github.com/user-attachments/assets/3cb2ef9e-1fa4-41b7-9853-c153bbd645f4" />
-<img width="1920" height="1080" alt="hasil 4" src="https://github.com/user-attachments/assets/6451bf74-0536-44dd-a20c-30c2bf5e1415" />
+<img width="547" height="252" alt="Cuplikan layar 2026-09-28 191950" src="https://github.com/user-attachments/assets/b27eb07d-6677-4077-a4e3-80b0e93c4a2a" />
+<img width="248" height="166" alt="Cuplikan layar 2026-09-28 192010" src="https://github.com/user-attachments/assets/23d61ed0-e3c6-4558-b7b5-d63b2c14d516" />
 
 
 ### 5. Select dan Textarea
 
 Menambahkan elemen dropdown pilihan menggunakan `<select>` dan `<option>`, serta kotak teks multi-baris menggunakan `<textarea>` untuk alamat.
 
-<img width="1920" height="1080" alt="code 5" src="https://github.com/user-attachments/assets/5a62ab3e-918b-4824-bc4a-9ec030942d4a" />
-<img width="1920" height="1080" alt="hasil 5" src="https://github.com/user-attachments/assets/f9cd0399-67ed-462e-9448-d392764eebf4" />
+<img width="562" height="205" alt="Cuplikan layar 2026-09-28 192728" src="https://github.com/user-attachments/assets/ff53d16f-e18f-49ab-9788-f576a5edb76b" />
+<img width="332" height="142" alt="Cuplikan layar 2026-09-28 201036" src="https://github.com/user-attachments/assets/195a5597-9922-48a3-9ecd-bf4416d357eb" />
+
 
 ### 6. Validasi Form Dasar
 
 Menerapkan atribut validasi bawaan HTML seperti `required`, `minlength`, `min`, dan `max` pada elemen form untuk memastikan input pengguna valid sebelum dikirim.
 
-<img width="1920" height="1080" alt="code 6" src="https://github.com/user-attachments/assets/f4e8cfba-0480-40fe-b8c8-701aeebf8250" />
-<img width="1920" height="1080" alt="hasil 6" src="https://github.com/user-attachments/assets/34f9720f-cce6-4317-95fc-b7b1e2545c51" />
+<img width="630" height="252" alt="Cuplikan layar 2026-09-28 203236" src="https://github.com/user-attachments/assets/dafbe127-7e13-4778-b04f-34595cb7a875" />
+<img width="603" height="37" alt="Cuplikan layar 2026-09-28 203258" src="https://github.com/user-attachments/assets/8f71b022-0897-4de9-be96-4aa80fc0f43b" />
 
 
 ### 7. Membuat Halaman Semantic HTML
 
 Menyusun struktur tata letak halaman web yang lebih bermakna dan terstandar menggunakan elemen semantik seperti `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, dan `<footer>`.
 
-<img width="1920" height="1080" alt="code 7" src="https://github.com/user-attachments/assets/29047f51-2256-4399-b0d2-a85f258e40a6" />
-<img width="1920" height="1080" alt="hasil 7" src="https://github.com/user-attachments/assets/ec5485c6-8be1-46df-b736-71894bb6fcae" />
+<img width="532" height="466" alt="Cuplikan layar 2026-09-28 204035" src="https://github.com/user-attachments/assets/0d7dddeb-5629-4b38-ab6d-d32a24a665a5" />
+<img width="536" height="285" alt="Cuplikan layar 2026-09-28 204113" src="https://github.com/user-attachments/assets/c57fb7d5-1982-45e4-bc07-b8c026e8a5ca" />
 
 
 ### 8. Menambahkan Multimedia
 
 Menyisipkan file media berupa audio (`<audio>`) dan video (`<video>`) ke dalam halaman web dengan kontrol pemutaran (`controls`) serta mengambil sumber file dari folder `media/`.
 
-<img width="1920" height="1080" alt="code 8" src="https://github.com/user-attachments/assets/09f506cc-9a01-4a15-bb92-249044776bcb" />
-<img width="1920" height="1080" alt="hasil 8" src="https://github.com/user-attachments/assets/d4a9aa4a-99df-4961-a4cb-585c095f2f82" />
+<img width="470" height="212" alt="Cuplikan layar 2026-09-28 213209" src="https://github.com/user-attachments/assets/47d006fe-5d1e-4214-b86e-9bbad779db74" />
+<img width="497" height="460" alt="Cuplikan layar 2026-09-28 213226" src="https://github.com/user-attachments/assets/2c4fb678-ce39-4d57-926b-1ea0b5af4fbb" />
 
 
 ### 9. Proyek Mini: Form Biodata Mahasiswa
 
 Menggabungkan seluruh materi yang telah dipelajari—meliputi struktur semantik, tabel data, form registrasi lengkap dengan validasi, hingga elemen multimedia—kedalam satu halaman web proyek mini (`biodata.html`).
 
-<img width="1920" height="1080" alt="code 9" src="https://github.com/user-attachments/assets/4a5202f9-adc0-4456-95d1-e3a8bca52f0f" />
-<img width="1920" height="1080" alt="code 9 (lanjutan)" src="https://github.com/user-attachments/assets/a79dcee2-ff23-41c6-86c1-f5d4d2366334" />
-<img width="1920" height="1080" alt="hasil 9" src="https://github.com/user-attachments/assets/e7434e61-35e8-4406-b834-d142a05c52d3" />
+<img width="603" height="735" alt="Cuplikan layar 2026-09-28 215237" src="https://github.com/user-attachments/assets/4c40d80d-05b6-4c8b-a2f0-775a329dc081" />
+<img width="572" height="197" alt="Cuplikan layar 2026-09-28 215301" src="https://github.com/user-attachments/assets/44514eac-bd79-42d5-8da8-e87a0ff19ead" />
+<img width="302" height="473" alt="Cuplikan layar 2026-09-28 215406" src="https://github.com/user-attachments/assets/c84ef479-214a-4e15-972d-517943e9497f" />
