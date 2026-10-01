@@ -35,8 +35,9 @@ Pada langkah ini, kita membuat tabel dasar menggunakan elemen `<table>`, `<tr>`,
 
 Menyusun struktur tabel yang lebih kompleks dan rapi dengan membaginya ke dalam bagian kepala (`<thead>`), badan (`<tbody>`), dan kaki tabel (`<tfoot>`), serta menggunakan elemen `<caption>` dan atribut `colspan` untuk menggabungkan sel.
 
-<img width="1920" height="1080" alt="code 2" src="https://github.com/user-attachments/assets/0550916f-e379-4a21-a806-aced1f70a93e" />
-<img width="1920" height="1080" alt="hasil 2" src="https://github.com/user-attachments/assets/ddea9349-b1ed-4f22-8cce-9d526db342e3" />
+<img width="612" height="200" alt="Cuplikan layar 2026-09-28 185635" src="https://github.com/user-attachments/assets/4130489b-896f-4e7e-8610-567275a32f60" />
+<img width="137" height="142" alt="Cuplikan layar 2026-09-28 185654" src="https://github.com/user-attachments/assets/bfaf74a6-8504-440a-a26f-9640fde1a0fd" />
+
 
 
 ### 3. Membuat Form Registrasi Mahasiswa
