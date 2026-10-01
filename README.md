@@ -28,7 +28,8 @@ Lab2Web/
 
 Pada langkah ini, kita membuat tabel dasar menggunakan elemen `<table>`, `<tr>`, `<th>`, dan `<td>` dengan atribut `border="1"` untuk menyajikan data mahasiswa ke dalam bentuk baris dan kolom.
 
-<img width="626" height="310" alt="Cuplikan layar 2026-09-28 185323" src="https://github.com/user-attachments/assets/59f7d47d-d1ca-4bee-8e40-95a6272b4565" />  
+<img width="626" height="310" alt="Cuplikan layar 2026-09-28 185323" src="https://github.com/user-attachments/assets/59f7d47d-d1ca-4bee-8e40-95a6272b4565" />
+
 <img width="278" height="186" alt="Cuplikan layar 2026-09-28 185553" src="https://github.com/user-attachments/assets/c3a841ae-ee00-40d1-92d4-3f3c1fcb3086" />  
 
 ### 2. Mengembangkan Tabel dengan `thead`, `tbody`, dan `tfoot`
